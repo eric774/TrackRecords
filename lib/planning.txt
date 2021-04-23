@@ -1,0 +1,24 @@
+
+can edit page's titles
+all pages will be independent
+same functionality as initial page
+checked off tasks have seperate section like google keep
+option to delete checked off tasks on top of section
+title of page to be updated on screen, which is opened
+one archive page, tasks can be archived from anywhere
+
+It will be a secure app, static in ones device only, no database collection, lists will be stored in self device
+No syncing to other devices
+
+
+whats left:
+    3. adding how to use page
+    4. make new pages, save them , through drawer only, changing screen/only tasks lists
+    5. name of pages can be changed, reflect on title
+    6. upload to firebase, real time tasks database
+    7. first try for whole app to work with database online, then mobile static lists
+    8. checklists on each page
+    9. Set design and colors according to light/dark theme
+
+two types of lists: list of name of pages, list of tasks of those pages * no. of pages
+Daily Tasks & Archived Tasks -- are fixed names
